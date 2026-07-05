@@ -1,1 +1,3 @@
 # MIneLAb
+
+First AI arquitecture
